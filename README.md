@@ -28,7 +28,7 @@
 
 <h2 align="left">📌My projects</h2>
 ##PokeApp
-<p align="left"><img src="./images/landing-pokemon"/> <img src="./images/home-pokemon"/> </p>
+<p align="left"><img src="./images/landing-pokemon.png"/> <img src="./images/home-pokemon.png"/> </p>
 
 <!-- 
 - <h3 align="left">📫 How to reach me:</h3>
