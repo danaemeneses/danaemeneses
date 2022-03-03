@@ -1,5 +1,5 @@
 ![this is an image](/bannergithub.png)
-### Hi there, I'm Danae! 
+<h1>Hi there, I'm Danae! </h1>
 
 <!-- ## My skills:  -->
 
@@ -13,11 +13,10 @@
 <img src="./images/PostgreSQL-Logo.png" width="100px" height="100px">
 <img src="./images/sequelize.png" width="70px" height="50px"> -->
 
+<h2 align="center">A passionate Full-Stack Developer from Argentina </h2>
 
-https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png
-<h3 align="center">A passionate Full-Stack Developer from Argentina </h3>
-- 📫 How to reach me:
-<p><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="emailicono" height="30" width="40"/>Email: danaemeneses5@gmail.com</p>
+- <h3 align="left">📫 How to reach me:</h3>
+<p align="right"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="emailicono" height="30" width="40"/>Email: danaemeneses5@gmail.com</p>
 
 
 
