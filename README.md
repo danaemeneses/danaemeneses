@@ -5,7 +5,7 @@
 
 <img src="./images/html5-logo.png" width="50px" height="50px">
 <img src="./images/css.png" width="50px" height="50px">
-<img src="./images/javascript.png" width="50px" height="50px">
+<img src="./images/javascript.png" width="100px" height="50px">
 <img src="./images/react.png" width="50px" height="50px">
 <img src="./images/bootstrap-logo-png.png" width="50px" height="50px">
 <img src="./images/Expressjs.png" width="50px" height="50px">
