@@ -14,11 +14,11 @@
 <img src="./images/sequelize.png" width="70px" height="50px"> -->
 
 <h2 align="center">A passionate Full-Stack Developer from Argentina </h2>
-
+<!-- 
 - <h3 align="left">📫 How to reach me:</h3>
 <p align="left"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="emailicono" height="30" width="40"/> Email: danaemeneses5@gmail.com</p>
 
-
+ -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 </p>
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="emailicono" height="30" width="40"/>
-  Email: danaemeneses5@gmail.com
+   danaemeneses5@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
