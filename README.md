@@ -1,6 +1,18 @@
 ![this is an image](/bannergithub.png)
 ### Hi there, I'm Danae! 
 
+Skills: {
+      BackEnd: [
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
+          {Python: ['Django']}
+        ],
+      FrontEnd: [
+          {JavaScript: ['React', 'React-Native', 'Redux']}
+        ]
+        }; 
+
+
+
 <!--
 **danaemeneses/danaemeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
