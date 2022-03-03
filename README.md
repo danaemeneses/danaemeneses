@@ -1,6 +1,6 @@
 ![this is an image](/bannergithub.png)
-<h1>Hi there, I'm Danae! </h1>
-<h2>A passionate Full-Stack Developer from Argentina </h2>
+<h2>Hi there, I'm Danae!, 
+  A passionate Full-Stack Developer from Argentina </h2>
 
 <!-- ## My skills:  -->
 
