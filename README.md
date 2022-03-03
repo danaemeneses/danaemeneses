@@ -1,5 +1,6 @@
 ![this is an image](/bannergithub.png)
 <h1>Hi there, I'm Danae! </h1>
+<h2 align="center">A passionate Full-Stack Developer from Argentina </h2>
 
 <!-- ## My skills:  -->
 
@@ -13,7 +14,7 @@
 <img src="./images/PostgreSQL-Logo.png" width="100px" height="100px">
 <img src="./images/sequelize.png" width="70px" height="50px"> -->
 
-<h2 align="center">A passionate Full-Stack Developer from Argentina </h2>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/danaemeneses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danaemeneses" height="30" width="40" /></a>
