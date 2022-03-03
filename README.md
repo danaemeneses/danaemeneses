@@ -1,15 +1,9 @@
 ![this is an image](/bannergithub.png)
 ### Hi there, I'm Danae! 
 
-Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
-          {Python: ['Django']}
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
-        }; 
+## My skills: 
+
+<img src="./images/css.png" width="50px" height="50px">
 
 
 
