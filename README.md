@@ -14,8 +14,13 @@
 <img src="./images/sequelize.png" width="70px" height="50px"> -->
 
 
-<h3 align="center">A passionate frontend developer from Argentina </h3>
-- 📫 How to reach me **danaemeneses5@gmail.com**
+https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png
+<h3 align="center">A passionate Full-Stack Developer from Argentina </h3>
+- 📫 How to reach me:
+<p><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="emailicono" height="30" width="40"/>Email: danaemeneses5@gmail.com</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danaemeneses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danaemeneses" height="30" width="40" /></a>
