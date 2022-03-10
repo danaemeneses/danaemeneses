@@ -35,12 +35,13 @@
 <li> React </li>
 <li> Redux en el manejo de estados </li>
 <li> Styled components para los estilos </li>
+<br/>
 <p>Backend</p>
 <li> NodeJS </li>
 <li> ExpressJS </li>
 <li> Sequelize </li>
 <li> PostgreSQL </li>
-
+<br/>
 <p align="left"><a href="https://github.com/danaemeneses/PI---Pokemon-" ><img src="./images/landing-pokemon.png"/> <img src="./images/home-pokemon.png"/></a> </p>
 
 
