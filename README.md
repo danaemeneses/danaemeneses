@@ -29,20 +29,20 @@
 
 <h2 align="left">📌My projects</h2>
 <h3> PokeApp </h3>
-<p>En este proyecto individual, hice una SPA utilizando las siguientes tecnologías: 
-Frontend: 
+<p>En este proyecto individual, utilizando datos extraídos de una API (pokeapi.co), hice una SPA utilizando las siguientes tecnologías: </p>
+<p>Frontend: </p>
 <li> Javascript </li>
 <li> React </li>
 <li> Redux en el manejo de estados </li>
 <li> Styled components para los estilos </li>
-Backend
-</p>
+<p>Backend</p>
+<li> NodeJS </li>
+<li> ExpressJS </li>
+<li> Sequelize </li>
+<li> PostgreSQL </li>
+
 <p align="left"><a href="https://github.com/danaemeneses/PI---Pokemon-" ><img src="./images/landing-pokemon.png"/> <img src="./images/home-pokemon.png"/></a> </p>
 
-<!-- 
-- <h3 align="left">📫 How to reach me:</h3>
-<p align="left"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="emailicono" height="30" width="40"/> Email: danaemeneses5@gmail.com</p>
 
- -->
 
 
