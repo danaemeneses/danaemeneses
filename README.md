@@ -46,6 +46,10 @@
  Busqueda exacta por nombre, filtrar por tipos, filtrar por origen, ordenar alfabéticamente, ordenar por fuerza creciente y decreciente, ver detalles de cada pokemon y crear tu propio pokemon. 
 </p>
 <p align="left"><a href="https://github.com/danaemeneses/PI---Pokemon-" ><img src="./images/landing-pokemon.png"/> <img src="./images/home-pokemon.png"/></a> </p>
+<br/>
+<h3> Pet Travel </h3>
+<p>Este proyecto fue mi trabajo final en el curso de Javascript en CoderHouse</p>
+<p align="left"><a href="https://github.com/danaemeneses/MenesesDanae-EntregaFinalJS" ><img src="./images/home-pet.gif"/> <img src="./images/carrito-pet.gif"/></a> </p>
 
 
 
