@@ -1,6 +1,6 @@
 ![this is an image](/bannergithub.png)
 <h2>Hola! Mi nombre es Danae:paw_prints::paw_prints: </h2>
- <h2>A passionate Full-Stack Developer from Argentina </h2>
+ <h2>Full-Stack Developer de Argentina </h2>
 
 <!-- ## My skills:  -->
 
