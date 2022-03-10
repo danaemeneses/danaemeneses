@@ -42,6 +42,9 @@
 <li> Sequelize </li>
 <li> PostgreSQL </li>
 <br/>
+<p>Entre sus funciones están:
+ Busqueda exacta por nombre, filtrar por tipos, filtrar por origen, ordenar alfabéticamente, ordenar por fuerza creciente y decreciente, ver detalles de cada pokemon y crear tu propio pokemon. 
+</p>
 <p align="left"><a href="https://github.com/danaemeneses/PI---Pokemon-" ><img src="./images/landing-pokemon.png"/> <img src="./images/home-pokemon.png"/></a> </p>
 
 
