@@ -29,6 +29,14 @@
 
 <h2 align="left">📌My projects</h2>
 <h3> PokeApp </h3>
+<p>En este proyecto individual, hice una SPA utilizando las siguientes tecnologías: 
+Frontend: 
+ Javascript, React, Redux en el manejo de estado y Styled components para los estilos. 
+<li>
+ <ul>Javascript</ul> 
+</li>
+Backend
+</p>
 <p align="left"><a href="https://github.com/danaemeneses/PI---Pokemon-" ><img src="./images/landing-pokemon.png"/> <img src="./images/home-pokemon.png"/></a> </p>
 
 <!-- 
