@@ -49,6 +49,7 @@
 <br/>
 <h3> Pet Travel </h3>
 <p>Este proyecto fue mi trabajo final en el curso de Javascript en CoderHouse</p>
+<p>Trabajé sobre el manejo del DOM, eventos, jQuery, AJAX. Realicé un e-commerce llamando a la API de mercado pago para finalizar la compra. </p>
 <p align="left"><a href="https://github.com/danaemeneses/MenesesDanae-EntregaFinalJS" ><img src="./images/home-pet.gif"/> <img src="./images/carrito-pet.gif"/></a> </p>
 
 
